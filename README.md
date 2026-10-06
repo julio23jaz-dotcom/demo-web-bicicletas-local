@@ -2,9 +2,11 @@
 
 > Concepto ficticio creado para mostrar diseño y desarrollo web. No representa a una empresa real ni está afiliado a un comercio. Los textos, servicios y ubicación son demostrativos.
 
-## Vista previa
+## Vistas previas
 
 [Ver la demo publicada](https://julio23jaz-dotcom.github.io/demo-web-bicicletas-local/)
+
+[Ver la muestra corporativa ficticia](https://julio23jaz-dotcom.github.io/demo-web-bicicletas-local/terranova-demo/)
 
 ## Qué muestra
 

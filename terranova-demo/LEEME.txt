@@ -1,0 +1,7 @@
+MUESTRA ORIGINAL DE PORTAFOLIO — TERRANOVA
+
+Sitio estático responsivo de demostración, creado para presentar una propuesta de diseño corporativo HTML/CSS. Terranova, su trayectoria, los proyectos, las cifras, la sede y el correo son ficticios. Las tarjetas de proyectos son ilustraciones CSS, no trabajos ejecutados.
+
+Abrir index.html en un navegador. No requiere instalación, servidor, JavaScript ni servicios externos para el contenido y las ilustraciones. La fuente tipográfica externa es opcional; el sitio usa alternativas del sistema si no hay conexión.
+
+Antes de publicar para un cliente, sustituir el nombre, texto, cartera, datos de contacto e identidad visual por materiales verificados y autorizados. Esta muestra no debe presentarse como un sitio ya contratado o entregado a un cliente.
